@@ -1,9 +1,12 @@
-# <img align="left" width="42" height="42" style="margin:0" src="https://cdn.discordapp.com/attachments/1227749609325989969/1227795314593894520/icon-git-hub.png?ex=6629b47e&is=66173f7e&hm=e73fea923ed581b2cc53463ba578b4d7f33cb935a0acacbc37bd76f4a785c8f4&">Pedro Drey <img align="right" width="110" height="90" src="https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif">
+<h1>
+    <img align="center" alt="Logo GitHub Custom" width="36px" src="https://cdn.discordapp.com/attachments/1227749609325989969/1227795314593894520/icon-git-hub.png?ex=6629b47e&is=66173f7e&hm=e73fea923ed581b2cc53463ba578b4d7f33cb935a0acacbc37bd76f4a785c8f4&"></a>
+    <span>Pedro Drey</span>
+</h1>
 
 Sou estagiário em Desenvolvimento Full Stack, cursando o último semestre de Análise e Desenvolvimento de Sistemas e atualmente estou focado no aprendizado em C# e .NET Framework.
 
 ### Principais Conhecimentos:
-<div style="display: inline_block" ><br>
+<div alt="conteiner" style="display: flex"><br>
   <img align="center" alt="Pedro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Pedro-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"/>
   <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
