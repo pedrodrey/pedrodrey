@@ -3,7 +3,7 @@
     <span>Pedro Drey</span>
 </h1>
 
-Sou estagiário em Desenvolvimento Full Stack, cursando o último semestre de Análise e Desenvolvimento de Sistemas e atualmente estou focado no aprendizado em C# e .NET Framework.
+Sou estagiário em Desenvolvimento Full Stack, cursando o último semestre de Análise e Desenvolvimento de Sistemas e atualmente estou focado no aprendizado em C# e .NET.
 
 ### Principais Conhecimentos:
 <div alt="conteiner" style="display: flex"><br>
