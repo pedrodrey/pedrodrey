@@ -1,5 +1,5 @@
 <h1>
-    <img align="center" alt="Logo GitHub Custom" width="36px" src="https://cdn.discordapp.com/attachments/1227749609325989969/1227795314593894520/icon-git-hub.png?ex=6629b47e&is=66173f7e&hm=e73fea923ed581b2cc53463ba578b4d7f33cb935a0acacbc37bd76f4a785c8f4&"></a>
+    <img align="center" alt="Logo GitHub Custom" width="36px" src="https://cdn.discordapp.com/attachments/1227749609325989969/1227795314593894520/icon-git-hub.png?ex=677dd77e&is=677c85fe&hm=fd3ee913032c3d18a9135c7a1d9adf1b24d8bbc4c478fda22ce7b29349be4799&"></a>
     <span>Pedro Drey</span>
 </h1>
 
