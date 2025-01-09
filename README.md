@@ -3,7 +3,7 @@
     <span>Pedro Drey</span>
 </h1>
 
-Sou estagiário em Desenvolvimento Full Stack, cursando o último semestre de Análise e Desenvolvimento de Sistemas e atualmente estou focado no aprendizado em C# e .NET.
+Formado em Análise e Desenvolvimento de Sistemas, possuo experiência em desenvolvimento Full Stack utilizando .NET Framework. Também possuo experiência como Analista de QA Júnior, garantindo a qualidade de aplicações por meio de testes manuais, automatizados e de API.
 
 ### Principais Conhecimentos:
 <div alt="conteiner" style="display: flex"><br>
