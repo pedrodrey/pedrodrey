@@ -1,5 +1,5 @@
 <h1>
-    <img align="center" alt="Logo GitHub Custom" width="36px" src="https://cdn.discordapp.com/attachments/1227749609325989969/1227795314593894520/icon-git-hub.png?ex=677dd77e&is=677c85fe&hm=fd3ee913032c3d18a9135c7a1d9adf1b24d8bbc4c478fda22ce7b29349be4799&"></a>
+    <img align="center" alt="Logo GitHub" width="68px" src="https://img.icons8.com/?size=100&id=0tREDFkScvsm&format=png&color=000000">
     <span>Pedro Drey</span>
 </h1>
 
